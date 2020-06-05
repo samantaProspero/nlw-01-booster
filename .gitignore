@@ -1,1 +1,4 @@
 web/.gitignore
+mobile/.gitignore
+mercado.jpg
+node_modules
